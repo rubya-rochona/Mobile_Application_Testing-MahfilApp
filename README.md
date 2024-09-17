@@ -1,6 +1,6 @@
 Mobile Application Testing
 
-Detailed test case and a comprehensive bug report on Mahfil App.
+Detailed test cases and a comprehensive bug report on Mahfil App.
 
 App Name: Mahfil
 
