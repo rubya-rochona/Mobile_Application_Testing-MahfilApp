@@ -4,6 +4,8 @@ Detailed test cases and a comprehensive bug report on Mahfil App.
 
 App Name: Mahfil
 
+App URL: https://apps.apple.com/us/app/mahfil/id6480132650
+
 Tool Used: Google Sheets
 
 Mobile App Platform: iOS
